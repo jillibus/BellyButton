@@ -24,19 +24,19 @@ I am to help Roza complete her dashboard by presenting the Top 10 bacteria of ea
 
 The applications startup will initialize with all 3 graphs initialized with the sample Volunteer ID 940.
 
-<img src="static/images/AppStartup.png" width=50% height=50% />
+<img src="images/AppStartup.png" width=50% height=50% />
 
 ## Interactive Options
                                        
 Now the user has an opportunity to search the Volunteers by using the dropdown on the left, and choosing any of the Volunteer ID's.  Once chosen, the charts will all change to represent the new Volunteer's results from the study.  
                                        
-<img src="static/images/NewVolunteer.png" width=50% height=50% />
+<img src="images/NewVolunteer.png" width=50% height=50% />
 
 ## Hover Feature on Bubble Chart
 
 On the Bubble Chart, the user can use their mouse and hover over any one of the 'bubbles' and the data information will appear.  This will give the user more information on which exact bacteria is represented by the bubble presented.
 
-<img src="static/images/bubble.jpg" width=50% height=50% />
+<img src="images/bubble.jpg" width=50% height=50% />
 
 ### Summary
 
