@@ -30,46 +30,13 @@ The applications startup will initialize with all 3 graphs initialized with the 
                                        
 Now the user has an opportunity to search the Volunteers by using the dropdown on the left, and choosing any of the Volunteer ID's.  Once chosen, the charts will all change to represent the new Volunteer's results from the study.  
                                        
-<img src="static/images/
-                                       
-                                       
-We offer searching by a single or multiple criteria. The options are Date, City, State, Country and Shape (of UFO).  You can also search more than 1 of these criteria.
+<img src="static/images/NewVolunteer.png" width=50% height=50% />
 
-## Filter By Date
+## Hover Feature on Bubble Chart
 
-To filter by date, the user enters the date, in the format of '1/10/2010' - as presented in the box as an example, and either clicks another filter box, or hits enter. The results will show as below.  The date entered was 1/5/2010 for the following results:
+On the Bubble Chart, the user can use their mouse and hover over any one of the 'bubbles' and the data information will appear.  This will give the user more information on which exact bacteria is represented by the bubble presented.
 
-<img src="static/images/Filter-by-date.png" width=50% height=50% />
-
-## Filter By City
-
-To filter by city, the user enters the city, the example is shown as 'roswell', and again, either clicks another filter box, or hits enter.  The results will show up in the window after the mouse click, or enter is chosen.  The data entered was fresno for the following results:
-
-<img src="static/images/Filter-by-city.png" width=50% height=50% />
-
-## Filter By State
-
-To filter by state, the user enters the state, the example is shown as 'ca', and again, either clicks another filter box, or hits enter.  The results will show up in the window after the mouse click, or enter is chosen.  The data entered was ca for the following results:
-
-<img src="static/images/Filter-by-state.png" width=50% height=50% />
-
-## Filter By Country
-
-To filter by country, the user enters the country code, the example is shown as 'us', and again, either clicks another filter box, or hits enter.  The results will show up in the window after the mouse click, or enter is chosen.  The data entered was us for the following results:
-
-<img src="static/images/filter-by-us.png" width=50% height=50% />
-
-## Filter By Shape
-
-To filter by shape, the user enters the shape of the ufo, the example is shown as 'circle', and again, either clicks another filter box, or hits enter.  The results will show up in the window after the mouse click, or enter is chosen.  The data entered was triangle for the following results:
-
-<img src="static/images/Filter-by-shape.png" width=50% height=50% />
-
-## Filter By more than 1 area
-
-To filter by more than 1 criteria, the user enters the data into more than one field, using the examples as a guide. The results will show up in the window after the mouse click, or enter is chosen.  The data entered was city = 'fresno' and state = 'ca' for the following results:  _Note:_ I have included the development window to show the console.log to show that more than 1 filter object was chosen.
-
-<img src="static/images/filter-by-city-st.png" width=50% height=50% />
+<img src="static/images/bubble.jpg" width=50% height=50% />
 
 ### Summary
 
