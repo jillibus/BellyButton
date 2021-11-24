@@ -16,7 +16,7 @@ I am to help Roza complete her dashboard by presenting the Top 10 bacteria of ea
 * Software: Visual Basic Studio, JavaScript, Chrome Web Browser, HTML5, CSS, Plotly
 
 ## Application Link
-<a href="https://jillibus.github.io/BellyButton/>BellyButton Biodiversity Interactive Dashboard</a>
+<a href="https://jillibus.github.io/BellyButton/">BellyButton Biodiversity Interactive Dashboard</a>
 
 ## RESULTS
 
