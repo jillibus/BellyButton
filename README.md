@@ -40,12 +40,10 @@ On the Bubble Chart, the user can use their mouse and hover over any one of the 
 
 ### Summary
 
-This project was a great learning experience and the module work was easy to follow along and progress to get to the end result, with buttons to run the application and clear the filters.  
+This project definitely dug into my skills with using HTML and playing with colors, fonts and making the charts look different and trying to not clash colors.  The examples we worked through during class time (activities) really helped with setting up the data of each different chart and helped a lot with making the plotting easy to understand.  I spend a lot of time going through the class activities once I go through all of the module to help myself understand the concepts better and they really help a lot.
 
-Once going into the challenge, to remove these buttons and allow the application to dynamically work once a mouse click chose a text field, or a user hit enter, and removed all buttons, was definitely an advanced step for me to see how to eliminiate all of my steps and variables into an object and let it determine what was happening.  But this method did make for a streamlined application, clean code and an application that is very responsive to the users input, immediately upon a keystroke, so that was very cool to see.
+The JavaScript code doesn't come to me that hard, as I have studied Java in college, but I am still having a bit of difficulty doing the new shorthand notation with the '=>' but I just need more practice.
 
-A few things I would like to add to this application:
-* One would be to put back the "clear button" I had during the module work.  That really helped in resetting my filters when I wanted to change out some values.  I was testing and chose a state, then a city and and then another city - and I ended up with a combination of 2 different cities in my filter.  The last city was of course the one that "won" the fight - but both showed up in my console.log as still in the object.
-* The other would be a drop down menu for the text boxes, it was hard to determine what dates, cities, states, countries or shapes were available to you.  So as to not enter something incorrectly, a drop down menu of "unique" values in those columns, would be a preferred way to choose what to search for easier.
+But breaking down the bar chart first, getting that to populate, then doing the bubble, and getting that to work, then the gauge, definitely helped in understanding doing the 2 parts to get a chart to work.  1) calculating the data then 2) determining the layout.
 
 Jill Hughes
